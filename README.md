@@ -1,5 +1,5 @@
 # NOTE
-**👋HI Guys What you see here is sample code can't provide full code because it is published by me on Chrome Extension Store and can be copied!.
+**👋HI Guys I have moved the code to private repo, can't provide full code because it is published by me on Chrome Extension Store and can be copied!.
 Check it out on Chrome Extension Store <a href="https://chrome.google.com/webstore/detail/youtube-ads-blocker/haodgijanplbimklohohnejcebllelad/related?hl=en-GB&authuser=0">Chrome Extension Store</a>The full code is avaliable in my Private repo at: https://github.com/parmishh/YT-ADS-Block-FullVersion**
 **If you are interested and want to contribute Then DM me I will give you Access to private Repo which contains full code.😊**
 
